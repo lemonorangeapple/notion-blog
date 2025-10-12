@@ -1,4 +1,4 @@
-import { Giscus } from '@giscus/react';
+import Giscus from '@giscus/react';
 import { FaEnvelopeOpenText } from '@react-icons/all-files/fa/FaEnvelopeOpenText'
 import { FaGithub } from '@react-icons/all-files/fa/FaGithub'
 import { FaLinkedin } from '@react-icons/all-files/fa/FaLinkedin'
