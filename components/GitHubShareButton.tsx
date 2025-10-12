@@ -2,7 +2,8 @@ import styles from './styles.module.css'
 
 export function GitHubShareButton() {
   return (
-    <a>
-    </a>
+    <div style="display: none;">
+      { styles.githubCorner }
+    </div>
   )
 }
