@@ -1,3 +1,4 @@
+import { Giscus } from '@giscus/react';
 import { FaEnvelopeOpenText } from '@react-icons/all-files/fa/FaEnvelopeOpenText'
 import { FaGithub } from '@react-icons/all-files/fa/FaGithub'
 import { FaLinkedin } from '@react-icons/all-files/fa/FaLinkedin'
@@ -13,7 +14,6 @@ import * as config from '@/lib/config'
 import { useDarkMode } from '@/lib/use-dark-mode'
 
 import styles from './styles.module.css'
-import Giscus from '@giscus/react';
 
 // TODO: merge the data and icons from PageSocial with the social links in Footer
 
