@@ -8,6 +8,9 @@ importers:
 
   .:
     dependencies:
+      '@giscus/react':
+        specifier: ^2.2.0
+        version: 2.2.0
       '@fisch0920/use-dark-mode':
         specifier: ^2.4.0
         version: 2.4.0(react@19.1.1)
