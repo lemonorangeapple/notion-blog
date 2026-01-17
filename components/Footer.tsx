@@ -38,10 +38,10 @@ export function FooterImpl() {
     <div id="comments">
         <Giscus
           id="comments"
-          repo="lemonorangeapple/lemonorangeapple.github.io"
-          repoId="R_kgDOKvAL3w"
-          category="General"
-          categoryId="DIC_kwDOKvAL384Ccnt1"
+          repo="lemonorangeapple/lemonorangeapple"
+          repoId="R_kgDOKU86TA"
+          category="Announcements"
+          categoryId="DIC_kwDOKU86TM4C1EWy"
           mapping="og:title"
           reactionsEnabled="1"
           emitMetadata="0"
