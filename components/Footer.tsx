@@ -36,6 +36,7 @@ export function FooterImpl() {
 
   return (
     <div id="comments">
+      <script defer src="https://status.imjcj.eu.org/script.js" data-website-id="73476d34-794a-4739-888f-d687e1147aeb"></script>
         <Giscus
           id="comments"
           repo="lemonorangeapple/lemonorangeapple"
